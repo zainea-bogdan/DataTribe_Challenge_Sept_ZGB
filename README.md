@@ -52,7 +52,7 @@ These design choices showed me how much **presentation impacts the story** behin
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/DataTribe_Challenge_Sept_ZGB.git
 
 2. Explore the report! :)
 
