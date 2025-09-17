@@ -25,10 +25,9 @@ The data source link:
 
 My main idea was to go in another direction from the original report and explore **how counties compare with their neighbors**, in order to see how close, or how far apart, they really are.  
 
-An educational example:
 
-Key insights from my home county, **Ialomița**:
-- The gap with **Sibiu** is minimal — just a few cans per person.  
+Example of key insights from my home county, **Ialomița**:
+- The gap with **Sibiu** is minimal,  just a few cans per person.  
 - Differences with **Prahova** and **Dolj** are more visible, around 120 grams per person.
 - Overall, **Ialomița ranks close to the Top 10**, showing strong participation in the deposit return system.
 
