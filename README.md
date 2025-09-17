@@ -57,6 +57,7 @@ These design choices showed me how much **presentation impacts the story** behin
 2. Explore the report! :)
 
 > Note1: Since I’m still a beginner with Power BI, I wanted to build dynamically changing elements. To achieve this, I couldn’t rely on a single table alone, I created a custom-like table with cards, each using its own DAX formula.
+
 > Note2: To make the dataset easier to work with, I added an index column in the original Excel file to count the rows.
 
 ## Feedback
