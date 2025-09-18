@@ -6,9 +6,6 @@ This project was created as part of the **RomanianDATA Tribe Challenge**, from S
 
 The main theme was : *highlight county-level patterns in packaging returned per capita across Romania*.  
 
-
-##Datasource and Originial Report:
-
 ## References
 
 The initial report that served as a starting point for this challenge:  
